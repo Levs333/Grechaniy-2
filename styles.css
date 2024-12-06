@@ -1,0 +1,53 @@
+header{ 
+       background-color: black;
+        color : gray;
+        font-size: 25px;
+        font-family:sans-serif ;
+        text-align: center;
+
+} 
+header img {
+    width:300px;
+    
+    border:10px solid white;
+    }    
+
+main{
+    background-color: black; 
+    color: white;font-size: 20px;
+    }
+
+main img{
+    width:300px;
+    text-align:center;
+    }
+
+body{
+    background-color: black;
+    
+}
+
+header a {
+       background-color:grey ;
+       color: white;
+       text-decoration: none;
+       font-size: 16px;
+       padding: 10px 25px;
+       border-radius: 10px;
+
+}
+
+footer{
+    background-color: black; 
+    color: white;font-size: 20px;
+    }
+
+footer a {
+       background-color:grey ;
+       color: white;
+       text-decoration: none;
+       font-size: 16px;
+       padding: 10px 25px;
+       border-radius: 10px;
+
+}
